@@ -55,5 +55,5 @@ From: ubuntu:22.04
 %labels
 Name        Downward-SSE
 Description A tool for state space exploration with additional dumping of relevant lifted task information
-Authors     Dominik Drexler <dominik.drexler@liu.se>
+Authors     Dominik Drexler <dominik.drexler@liu.se>, Jendrik Seipp <jendrik.seipp@liu.se>
 # sudo singularity build sse.img sse.sif
